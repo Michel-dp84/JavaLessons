@@ -42,7 +42,6 @@ public class ProjectOne {
         calc_if(3,9,'*');
         calc_if(3,9,'/');
         calc_if(3,9,'@');
-        calc_if(3,0,'/');
         System.out.println("");
         System.out.println("Calc with switch");
         calc_switch(3,9,'+');
